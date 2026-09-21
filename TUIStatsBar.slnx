@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TUIStatsBar/TUIStatsBar.vcxproj" Id="66b097ab-d22e-420a-8634-be5f9959a28d" />
+</Solution>
